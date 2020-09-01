@@ -85,8 +85,3 @@ Your final product will be assessed on the following metrics:
 
 Trilogy Education Services © 2019. All Rights Reserved.
 =======
-# d3-challenge
-Week 16 Homwork
-
-## Webpage is displayed at: https://cselleck.github.io/d3-challenge/
->>>>>>> 64faa466e99834e2fe2c379574beb998860a270e
